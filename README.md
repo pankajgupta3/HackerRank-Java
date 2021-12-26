@@ -1,3 +1,3 @@
 # HackerRank-Java
 
-This repository contains solution of all Java HackerRank challenges.
+This repository contains solution of Java HackerRank challenges.
